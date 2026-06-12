@@ -1,0 +1,13 @@
+{
+ "council": "Dorset Council",
+ "slug": "dorset",
+ "build": "2026-06-12",
+ "window_start": "2025-06-13",
+ "window_days": 365,
+ "sources": {
+  "roads": "OS Open Roads (Apr 2026), OGL v3",
+  "uprn": "OS Open UPRN (Apr 2026), OGL v3",
+  "boundaries": "ONS Open Geography (LAD24 BFC, WD24 BFC, PARNCP25 BFC), OGL v3",
+  "collection": "SYNTHETIC demo data (seeded), not real Streetwave history"
+ }
+}
