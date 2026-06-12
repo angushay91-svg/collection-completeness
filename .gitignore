@@ -1,0 +1,7 @@
+node_modules/
+.nuxt/
+.output/
+app/public/data/
+cache/
+__pycache__/
+.pytest_cache/
